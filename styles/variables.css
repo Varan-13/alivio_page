@@ -3,6 +3,8 @@
     --color-green:#00845e;
     --color-darkgreen: #245852;
     --color-black: #292929;
+    --color-white-black: rgba(66, 66, 66, 1);
+    --color-light-green: rgba(1, 153, 109, 1);
 }
 
 /* @media breakpoints: 992px,768px,480px */
